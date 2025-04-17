@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "crc": "^4.3.2",
+    "fuse.js": "^6.6.2",
+    "hide-terminal-cursor": "^0.0.1",
+    "node-wifi": "^2.0.16",
+    "show-terminal-cursor": "^0.0.2",
+    "uuid-v4": "^0.1.0"
+  }
+}
